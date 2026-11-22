@@ -86,5 +86,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MmiF/MmiF/output/github-contribution-grid-snake-dark.svg" alt="MmiF Contribution Snake" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MmiF/MmiF/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MmiF/MmiF/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+    <img alt="MmiF Contribution Snake" src="https://raw.githubusercontent.com/MmiF/MmiF/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="95%" />
+  </picture>
 </div>
