@@ -20,7 +20,7 @@
 <div align="center">
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MmiF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=76b8f1&icon_color=59e4d8&text_color=c9d1d9" alt="MmiF GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MmiF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=76b8f1&icon_color=59e4d8&text_color=c9d1d9" alt="MmiF GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=MmiF&theme=tokyonight&hide_border=true&background=0d1117&ring=de82fc&fire=59e4d8&currStreakLabel=76b8f1" alt="MmiF GitHub Streak" />
 </p>
 
@@ -51,21 +51,21 @@
 
 #### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite,webpack,materialui,jquery&theme=dark" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite,webpack,materialui,bootstrap,daisyui&theme=dark" alt="Frontend Stack" />
 </p>
 
 ---
 
 #### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark" alt="Backend Stack" />
 </p>
 
 ---
 
 #### Tools, OS & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,linux,ubuntu,kali,netlify&theme=dark" alt="Tools and Workflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,figma,linux,windows,ubuntu,netlify,render&theme=dark" alt="Tools and Workflow" />
 </p>
 
 ---
